@@ -1,0 +1,8 @@
+import requests
+
+res = requests.post("http://34.47.44.179:5050/send-initial/", json={
+    "country_code": "+91",
+    "phone_number": "8319637167",
+    "timestamp_filter": "2025-06-21 15:00:00"
+})
+print(res.json())
