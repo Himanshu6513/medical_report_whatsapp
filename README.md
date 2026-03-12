@@ -8,6 +8,5 @@ Upload the list of medical reports using the medical-report_upload.py script.
 
 Externally call the send-initial server endpoint hosted on the GCP server to initiate the process.
 
-Here is the thing what this thing does:-
-
+Here is a demo showing what this system does:
 https://www.youtube.com/watch?v=J_flqMj8zdM
